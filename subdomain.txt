@@ -1332,7 +1332,7 @@ affiliateprogram.web.com
 id.web.com
 us.web.com
 tellapal.web.com
-connect-onlinemarketingau.web.com
-bitbucket-qa.web.com
-datatrans.web.com
-65437.web.com
+connect-onlinemarketingau.web.com---------------------pending
+bitbucket-qa.web.com-------------------death
+datatrans.web.com---------------------death
+65437.web.com-------------------------------death
